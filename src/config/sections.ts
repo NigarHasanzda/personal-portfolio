@@ -2,6 +2,7 @@
 export const sectionIds = {
   projects: "projects",
   about: "about",
+  skills: "skills",
   contact: "contact",
 } as const;
 
