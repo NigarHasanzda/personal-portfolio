@@ -3,6 +3,7 @@ export const sectionIds = {
   projects: "projects",
   about: "about",
   skills: "skills",
+  experience: "experience",
   contact: "contact",
 } as const;
 
